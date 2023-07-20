@@ -1,11 +1,11 @@
 # Angular Icon Picker
 
-[![Build Status](https://travis-ci.org/tech-advantage/ngx-icon-picker.svg?branch=master)](https://travis-ci.org/tech-advantage/ngx-icon-picker)
-[![NPM Version](https://badge.fury.io/js/ngx-icon-picker.svg)](https://npmjs.org/package/ngx-icon-picker)
+[![Build Status](https://travis-ci.org/tech-advantage/ngx-icon-picker-v16.svg?branch=master)](https://travis-ci.org/tech-advantage/ngx-icon-picker-v16)
+[![NPM Version](https://badge.fury.io/js/ngx-icon-picker-v16.svg)](https://npmjs.org/package/ngx-icon-picker-v16)
 
 * Largely inspired by [ngx-color-picker](https://github.com/zefoy/ngx-color-picker)
 
-![demo_02](https://github.com/tech-advantage/ngx-icon-picker/blob/master/doc/demo_02.jpg)
+![demo_02](https://github.com/tech-advantage/ngx-icon-picker-v16/blob/master/doc/demo_02.jpg)
 
 Angular IconPicker Directive/Component with no dependencies required.
 
@@ -15,12 +15,12 @@ The icon Picker manages Font Awesome, Bootstrap Glyphicon, Font Awesome 5 (5.15.
 
 ## Installing and usage
 
-   npm install ngx-icon-picker --save
+   npm install ngx-icon-picker-v16 --save
 
 ### Load the module for your app
 
 ```typescript
-import { IconPickerModule } from 'ngx-icon-picker';
+import { IconPickerModule } from 'ngx-icon-picker-v16';
 
 @NgModule({
   ...
@@ -103,7 +103,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { CommonModule } from '@angular/common';
-import { IconPickerModule } from 'ngx-icon-picker/dist/index';
+import { IconPickerModule } from 'ngx-icon-picker-v16/dist/index';
 import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
@@ -177,15 +177,15 @@ export class AppComponent implements OnInit {
 
 * Start your project with `yarn start` (or `npm start`) and go to _localhost:4200_
 
-[demo_01](https://github.com/tech-advantage/ngx-icon-picker/blob/master/doc/demo_01.jpg)
+[demo_01](https://github.com/tech-advantage/ngx-icon-picker-v16/blob/master/doc/demo_01.jpg)
 
 * You should now be able to change icon by clicking input field :
 
-![demo_02](https://github.com/tech-advantage/ngx-icon-picker/blob/master/doc/demo_02.jpg)
+![demo_02](https://github.com/tech-advantage/ngx-icon-picker-v16/blob/master/doc/demo_02.jpg)
 
-![demo_03](https://github.com/tech-advantage/ngx-icon-picker/blob/master/doc/demo_03.jpg)
+![demo_03](https://github.com/tech-advantage/ngx-icon-picker-v16/blob/master/doc/demo_03.jpg)
 
-![demo_04](https://github.com/tech-advantage/ngx-icon-picker/blob/master/doc/demo_04.jpg)
+![demo_04](https://github.com/tech-advantage/ngx-icon-picker-v16/blob/master/doc/demo_04.jpg)
 
 ## Examples
 
@@ -307,7 +307,7 @@ npm run build
 
 The library will be build
 
-Go in your project and type `npm install NGX_ICON_PICKER_PATCH` where **NGX_ICON_PICKER_PATCH** is the ngx-icon-picker path repository (example: /git/ngx-icon-picker). 
+Go in your project and type `npm install NGX_ICON_PICKER_PATCH` where **NGX_ICON_PICKER_PATCH** is the ngx-icon-picker-v16 path repository (example: /git/ngx-icon-picker-v16). 
 
 The local build will be installed in your project. 
 

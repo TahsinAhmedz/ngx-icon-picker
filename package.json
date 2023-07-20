@@ -1,7 +1,7 @@
 {
-  "name": "ngx-icon-picker-v16",
+  "name": "ngx-icon-picker-v16-v16",
   "description": "Icon picker widget for Angular (version 13 and newer)",
-  "bugs": "https://github.com/tech-advantage/ngx-icon-picker/issues",
+  "bugs": "https://github.com/tech-advantage/ngx-icon-picker-v16/issues",
   "license": "MIT",
   "version": "1.10.0",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tech-advantage/ngx-icon-picker.git"
+    "url": "https://github.com/tech-advantage/ngx-icon-picker-v16.git"
   },
   "dependencies": {
     "@angular/animations": "^16.1.6",
@@ -33,7 +33,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
     "bootstrap": "^3.3.7",
     "ngx-bootstrap": "^6.2.0",
-    "ngx-icon-picker": "file:",
+    "ngx-icon-picker-v16": "file:",
     "primeicons": "^5.0.0",
     "rxjs": "~7.4.0",
     "tslib": "^2.0.0",

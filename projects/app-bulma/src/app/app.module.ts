@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppBulmaComponent } from './app.bulma.component';
 import { CommonModule } from '@angular/common';
-import { IconPickerModule } from 'ngx-icon-picker';
+import { IconPickerModule } from 'ngx-icon-picker-v16';
 import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({

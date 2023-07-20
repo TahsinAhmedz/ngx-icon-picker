@@ -4,7 +4,7 @@ import { ModalModule } from 'ngx-bootstrap/modal';
 
 import { AppComponent } from './app.component';
 import { CommonModule } from '@angular/common';
-import { IconPickerModule } from 'ngx-icon-picker';
+import { IconPickerModule } from 'ngx-icon-picker-v16';
 import { ReactiveFormsModule } from '@angular/forms';
 import { ModalDialogComponent} from './modal/modal.dialog';
 import { FaIconLibrary, FontAwesomeModule } from '@fortawesome/angular-fontawesome';
